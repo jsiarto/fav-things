@@ -1,0 +1,24 @@
+/* Colors
+#D3E1E2
+#A25A63
+#32363A
+*/
+
+body {
+  background: #D3E1E2;
+  margin: 0;
+  padding: 0 15%;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  border-top: 10px solid #A25A63;
+}
+
+h1 {
+  color: #A25A63;
+  text-align: center;
+  font-size: 4em;
+}
+
+p {
+  line-height: 1.4em;
+}
